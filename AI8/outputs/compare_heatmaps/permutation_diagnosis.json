@@ -1,0 +1,74 @@
+[
+  {
+    "index": 0,
+    "image_id": 1,
+    "nme_index": 0.21671963659023918,
+    "nme_hungarian": 0.1595521064158559
+  },
+  {
+    "index": 1,
+    "image_id": 2,
+    "nme_index": 0.19980942735355886,
+    "nme_hungarian": 0.14972788481349472
+  },
+  {
+    "index": 2,
+    "image_id": 3,
+    "nme_index": 0.22274308653239372,
+    "nme_hungarian": 0.15509892564798258
+  },
+  {
+    "index": 3,
+    "image_id": 4,
+    "nme_index": 0.29602703415361176,
+    "nme_hungarian": 0.2488571785075766
+  },
+  {
+    "index": 4,
+    "image_id": 5,
+    "nme_index": 0.27761504236809414,
+    "nme_hungarian": 0.25157884597468594
+  },
+  {
+    "index": 5,
+    "image_id": 6,
+    "nme_index": 0.2656003609764346,
+    "nme_hungarian": 0.22359766702319722
+  },
+  {
+    "index": 6,
+    "image_id": 7,
+    "nme_index": 0.18113953397462854,
+    "nme_hungarian": 0.12380806996929589
+  },
+  {
+    "index": 7,
+    "image_id": 8,
+    "nme_index": 0.19149811365973324,
+    "nme_hungarian": 0.14851692299727812
+  },
+  {
+    "index": 8,
+    "image_id": 9,
+    "nme_index": 0.15927132508484543,
+    "nme_hungarian": 0.1057494478728732
+  },
+  {
+    "index": 9,
+    "image_id": 10,
+    "nme_index": 0.18415228312662765,
+    "nme_hungarian": 0.16393001182922634
+  },
+  {
+    "index": 10,
+    "image_id": 11,
+    "nme_index": 0.22322946350728895,
+    "nme_hungarian": 0.17915024601403332
+  },
+  {
+    "index": 11,
+    "image_id": 12,
+    "nme_index": 0.1773234034642951,
+    "nme_hungarian": 0.14676894942576332
+  }
+]
